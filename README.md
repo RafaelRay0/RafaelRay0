@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu me chamo Rafael Ray, Sou um pogrmador Front End, Atualmente estou fazendo projetos com:
+Eu me chamo Rafael Ray, Sou um pogramador Front End, Atualmente estou fazendo projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-Html" />
