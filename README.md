@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu me chamo Rafael Ray, Sou um pogramador Front End, Atualmente estou fazendo projetos com:
+Eu me chamo Rafael Ray, Sou um programador Front End, Atualmente estou fazendo projetos com:
 <br>
 <br>
 <p>
