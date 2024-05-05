@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu me chamo Rafael Ray, Sou um programador Front End, Atualmente estou fazendo projetos com:
+Eu me chamo Rafael Ray, sou de Aracaju Sergipe, atualmente estou fazendo transição de carreira de Jardineiro para a área de Desenvolvimento Web, com conhecimento em tais ferramentas:
 <br>
 <br>
 <p>
