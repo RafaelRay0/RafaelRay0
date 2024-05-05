@@ -12,13 +12,11 @@ Eu me chamo Rafael Ray, Sou um programador Front End, Atualmente estou fazendo p
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Logo-NodeJs" />  
 <br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-ReactJs" />  
-<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Logo-Figman" />  
 </p>
-
-Sistema Operacionais:
-<br>
+Frameworks:
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo-ReactJs" /> 
+Sistemas Operacionais:
 <br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Logo-Figman"  alt="Logo-Figman" />
 
