@@ -21,3 +21,7 @@ Sistemas Operacionais:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Logo-Figman"  alt="Logo-Figman" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRay0)](https://github.com/anuraghazra/github-readme-stats)
+
+Redes
+
+<p><a href="https://wa.me/5579996851292"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  alt="Whatsapp" /></a></p>
